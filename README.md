@@ -4,7 +4,7 @@ The objective of the **Profile Cards** project is to create a website displaying
 
 ## Final Product
 
-<a href="" target="_blank">
+<a href="https://profile-cards-project.netlify.app/" target="_blank">
   <img src="img/site-overview.png" alt="Profile cards website" title="Click to view the website">
 </a>
 <br><br>
